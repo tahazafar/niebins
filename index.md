@@ -1,3 +1,4 @@
+# Oneday, all of us will have NICE bins
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AmI-2017/urban-waste/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
