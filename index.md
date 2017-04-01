@@ -1,4 +1,4 @@
-##          _Oneday, all of us will have NICE bins!_ 
+##          _One day, all of us will have NICE bins!_ 
 ![](https://s-media-cache-ak0.pinimg.com/originals/65/a8/58/65a858cc077444705b1112ef71986eb7.png)
 
 
@@ -6,7 +6,9 @@
 
 
 ## **Vision**
-
+When the bins are not enough to contain the trash of all the residents living in the neighborhood, the streets become messy and the work of the garbage collectors increases. It’s difficult to know the exact location of other bins nearby and many residents are unaware of the recycling bins’ location and their impact on trash production in their neighborhood. 
+**NICE bins** is a system which aims to tackle this problem by providing an easy to use and complete service to garbage collectors. Collectors will easily see in the areas they are responsible of if the bins, i.e. for general waste, paper, glass, metal and organic,  are partially full, full or empty and will be able to close the ones who reach fullness and choose the bins to open in the most efficient way to allow residents throw their garbage. To increase the capacity of the bins, **NICE bins** will compress the trash present in the bins for organic waste, paper and plastic, allowing more space in the bins and longer duration of it before collection. In this way collectors will manage the flow of the people to the bins and will organize efficiently the resources to empty the full bins, reducing the fuel consumption, the time needed and the amount of work. 
+For residents, **NICE bins** will provide  to the resident a platform with the location of the nearest bins and their current state, i.e. available or not available,  especially the recycling ones, allowing residents to be aware of the waste production in their neighborhood. **NICE bins** has the goal to reduce waste and bins, by providing a better overview of the bins’ state to garbage collectors and allowing and improve management of the collection process, as well as keeping the environment neat for the residents in the neighborhood. 
 
 ## AmI main steps
 
