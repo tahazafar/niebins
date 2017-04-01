@@ -1,13 +1,10 @@
-# Oneday, all of us will have NICE bins
-## Neat Intelligent Communicating Environment
+# _Oneday, all of us will have NICE bins_
+https://ami-2017.github.io/urban-waste
 
-You can use the [editor on GitHub](https://github.com/AmI-2017/urban-waste/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub   will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ID (matricola) | Last Name | First Name | e-mail | GitHub |	Role in the Project
 ------------ | ------------- | ---------- | ------------ | ------------ | ------------
-191555 | Seijas Portocarrero Xileny |	xileny.seijasp@gmail.com	| @Xileny | Hardware Developer & Graphic Designer 
+191555 | Seijas Portocarrero | Xileny |	xileny.seijasp@gmail.com	| @Xileny | Hardware Developer & Graphic Designer 
 217946 |Ma | Qiang | ma2214889041@gmail.com | @ma2214889041  | Software Developer & Designer        
 206376 | Medina	| Francesco | pacimedina@gmail.com | @francescomedina	| Hardware and Software Developer 
 217600 | Chen | Yun | 137082773@qq.com | @cystephanie0727 | Software Developer & Web Designer	
@@ -15,15 +12,8 @@ ID (matricola) | Last Name | First Name | e-mail | GitHub |	Role in the Project
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Vision
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
