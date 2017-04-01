@@ -16,26 +16,26 @@ For residents, **NICE bins** will provide  to the resident a platform with the l
 
 ## AmI main steps
 
-**Sensing** : the system will sense the level of trash in the bin as well as the situation of the bins nearby
+**Sensing** : The system will sense the level of trash in the bin as well as the situation of the bins nearby.
 
-**Reasoning** :  it will calculate the percentage of fullness of the trash and evaluate the situation of the bins nearby
+**Reasoning** :  It will calculate the percentage of fullness of the trash and evaluate the situation of the bins nearby.
 
-**Acting** :  the system will close the bins and will compress the trash inside of it according to the levels of fullness
+**Acting** :  The system will close the bins and will compress the trash inside of it according to the levels of fullness.
 
-**Interacting** : it wil provide the suggested bins to be opened or closed, the map of the bins in the city and suggestions of the nearest available bins	
+**Interacting** : It wil provide the suggested bins to be opened or closed, the map of the bins in the city and suggestions of the nearest available bins.	
 
 ## AmI features 
-**Sensitive**
+**Sensitive** : The system senses the level of trash in the bin.
 
-**Responsive**
+**Responsive** : The system understands when is a good level to compress the waste and also given users’ requests, responds to them with the requested information.
 
-**Adaptive**
+**Adaptive** :  If the garbage bins’ positions are changed, they keep their ability to communicate with other bins.
 
-**Transparent**
+**Transparent** : Residents don’t need to set up anything when they are throwing their waste and also the system is hidden to them.
 
-**Ubiquitous**
+**Ubiquitous** : The system can be use in wider areas and their situation is available to be consulted by every user.
 
-**Intelligent**
+**Intelligent** : /
 
 
 
