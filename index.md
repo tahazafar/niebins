@@ -18,17 +18,26 @@ Syntax highlighted code block
 ## AmI main steps
 
 **Sensing** : the system will sense the level of trash in the bin as well as the situation of the bins nearby
+
 **Reasoning** :  it will calculate the percentage of fullness of the trash and evaluate the situation of the bins nearby
+
 **Acting** :  the system will close the bins and will compress the trash inside of it according to the levels of fullness
+
 **Interacting** : it wil provide the suggested bins to be opened or closed, the map of the bins in the city and suggestions of the nearest available bins	
 
 ## AmI features
 
 **Sensitive**
+
 **Responsive**
+
 **Adaptive**
+
 **Transparent**
+
 **Ubiquitous**
-**Intelligent **
+
+**Intelligent**
+
 
 ### Open issues
