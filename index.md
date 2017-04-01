@@ -1,5 +1,4 @@
 ##          _Oneday, all of us will have NICE bins!_ 
-[https://ami-2017.github.io/urban-waste](https://ami-2017.github.io/urban-waste)
 ![](https://s-media-cache-ak0.pinimg.com/originals/e2/cc/11/e2cc11be816d4d9c02872649f8d0be20.png)
 
 
@@ -44,3 +43,4 @@
 217600 | Chen | Yun | 137082773@qq.com | @cystephanie0727 | Software Developer & Web Designer	
 
 ### Open issues
+[https://ami-2017.github.io/urban-waste](https://ami-2017.github.io/urban-waste)
