@@ -1,5 +1,5 @@
 ### _Oneday, all of us will have NICE bins!_ 
-![](https://drive.google.com/open?id=0BxqbI3S26PY_ZWk4WjNwVmxwZ0U)
+![](https://s-media-cache-ak0.pinimg.com/originals/e2/cc/11/e2cc11be816d4d9c02872649f8d0be20.png)
 [https://ami-2017.github.io/urban-waste](https://ami-2017.github.io/urban-waste)
 
 
