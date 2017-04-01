@@ -12,20 +12,23 @@ ID (matricola) | Last Name | First Name | e-mail | GitHub |	Role in the Project
 ```markdown
 Syntax highlighted code block
 
-## Vision
+## **Vision**
 
 
-**Bold** and _Italic_ and `Code` text
+## AmI main steps
 
-[Link](url) and ![Image](src)
-```
+**Sensing** : the system will sense the level of trash in the bin as well as the situation of the bins nearby
+**Reasoning** :  it will calculate the percentage of fullness of the trash and evaluate the situation of the bins nearby
+**Acting** :  the system will close the bins and will compress the trash inside of it according to the levels of fullness
+**Interacting** : it wil provide the suggested bins to be opened or closed, the map of the bins in the city and suggestions of the nearest available bins	
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## AmI features
 
-### Jekyll Themes
+**Sensitive**
+**Responsive**
+**Adaptive**
+**Transparent**
+**Ubiquitous**
+**Intelligent **
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmI-2017/urban-waste/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Open issues
