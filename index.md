@@ -57,6 +57,6 @@ For residents, **NICE bins** will provide  to the resident a platform with the l
 * more knowledge about the economical  technology to deal with the compression of garbage and sense of amount and classification of garbage.
 * Maybe getting to know better the **company responsible for managing waste** (AMIAT)  will allow us to provide a specific and customized service addressing actual needs in the garbage collection process.
 * Maybe ask some physical information about the compression topic to a **mechanical researcher** and also about some risks in compressing some special materials like organic waste...
-* To have a demonstration, we will need to have a real bin, the big one, that ** cannot fit the LADISPE’s tables’ size**.
+* To have a demonstration, we will need to have a real bin, the big one, that **cannot fit the LADISPE’s tables’ size**.
 		
 [https://ami-2017.github.io/urban-waste](https://ami-2017.github.io/urban-waste)
