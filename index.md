@@ -35,7 +35,6 @@ For residents, **NICE bins** will provide  to the resident a platform with the l
 
 **Ubiquitous** : The system can be use in wider areas and their situation is available to be consulted by every user.
 
-**Intelligent** : /
 
 
 
