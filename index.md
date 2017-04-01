@@ -33,7 +33,7 @@
 
 ## Group members
 
-ID (matricola) | Last Name | First Name | e-mail | GitHub |	Role in the Project
+**ID (matricola)** | **Last Name** | **First Name** | **e-mail** | **GitHub** |	**Role in the Project**
 ------------ | ------------- | ------------- | ------------ | ------------ | ------------
 191555 | Seijas Portocarrero | Xileny |	xileny.seijasp@gmail.com	| @Xileny | Hardware Developer & Graphic Designer 
 217946 | Ma | Qiang | ma2214889041@gmail.com | @ma2214889041  | Software Developer & Designer        
