@@ -1,4 +1,4 @@
-# _Oneday, all of us will have NICE bins_
+### _Oneday, all of us will have NICE bins._
 https://ami-2017.github.io/urban-waste
 
 
@@ -16,8 +16,7 @@ https://ami-2017.github.io/urban-waste
 
 **Interacting** : it wil provide the suggested bins to be opened or closed, the map of the bins in the city and suggestions of the nearest available bins	
 
-## AmI features
-
+## AmI features 
 **Sensitive**
 
 **Responsive**
@@ -31,11 +30,14 @@ https://ami-2017.github.io/urban-waste
 **Intelligent**
 
 
-### Open issues
+
 ## Group members
+
 ID (matricola) | Last Name | First Name | e-mail | GitHub |	Role in the Project
 ------------ | ------------- | ---------- | ------------ | ------------ | ------------
 191555 | Seijas Portocarrero | Xileny |	xileny.seijasp@gmail.com	| @Xileny | Hardware Developer & Graphic Designer 
 217946 |Ma | Qiang | ma2214889041@gmail.com | @ma2214889041  | Software Developer & Designer        
 206376 | Medina	| Francesco | pacimedina@gmail.com | @francescomedina	| Hardware and Software Developer 
 217600 | Chen | Yun | 137082773@qq.com | @cystephanie0727 | Software Developer & Web Designer	
+
+### Open issues
