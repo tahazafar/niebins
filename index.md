@@ -49,9 +49,9 @@ Easier waste classification allows residents to have an active role in reducing 
 
 ### Open issues
 
-* **Communication** between bins
+* ~~**Communication** between bins~~
 * The **scalability** of the system is expensive to cover the whole city   
-* More knowledge about the economical technology to deal with the compression of garbage and sense of amount and classification of garbage
+* ~~More knowledge about the economical technology to deal with the compression of garbage and sense of amount and classification of garbage~~
 * To have a demonstration, we will need to have a real bin, the big one, that **cannot fit the LADISPE’s tables’ size**
 * ***new*** The way to provide **rewards** to the users 
 * ***new*** NICE bins uses voice recognition and voice notification so it’s not yet **convenient for disabled people** who cannot speak and/or hear
