@@ -6,13 +6,12 @@
 
 
 ## **Vision**
-When the bins are not enough to contain the trash of all the residents living in the neighborhood, the streets become messy and the work of the garbage collectors increases. It’s difficult to know the exact location of other bins nearby and many residents are unaware of the recycling bins’ location and their impact on trash production in their neighborhood. 
 
-**NICE bins** is a system which aims to tackle this problem by providing an easy to use and complete service to garbage collectors. Collectors can easily see in the areas they are responsible of if the bins, i.e. for general waste, paper, glass, metal and organic,  are partially full, full or empty and are able to close the ones that reach fullness and choose the bins to open in the most efficient way to allow residents throw their garbage. To increase the capacity of the bins, **NICE bins** compresses the trash present in the bins for organic waste, paper and plastic, allowing more space in them and longer duration of them before collection. In this way collectors can manage the flow of the people to the bins and organize efficiently the resources to empty the full bins, reducing the fuel consumption, the time needed and the amount of work. 
+Waste production is constantly increasing in urban areas, leading to waste abandon and untidy neighborhoods. The classification of waste is a priority to create a healthier environment and it helps to reuse and recycle what otherwise remains just waste.
 
-For residents, **NICE bins** provides a platform with the location of the nearest bins and their current state, i.e. available or not available, especially the recycling ones, allowing them to be aware of the waste production in their neighborhood. 
+**NICE bins** tackles these issues by making the habit of waste classification easier and fun for residents and by allowing faster notification of waste abandon for trash collectors. Residents receive points according to how often they use classified bins and have access to a crowdsourcing database which shows them the right bin for the items they don’t know how to classify. The more use residents make of classified bins, the more they are recognized as *environmental ambassadors* and rewarded. Residents receive a vocal suggestion of the nearest available bin if the one they want to use is full, saving their time and preventing waste abandon. Trash collectors notify waste abandon in a faster and easier way using **NICE bins** to keep the neighborhood tidy. A map of the bins in the neighborhood is available to show their location and current filling. 
 
-**NICE bins** has the goal to reduce waste and bins, by providing a better overview of the bins’ state to garbage collectors and allowing an improved management of the collection process, as well as keeping the environment neat for the residents in the neighborhood. 
+Easier waste classification allows residents to have an active role in reducing waste in their neighborhood and the maintenance of tidy surroundings facilitates the adoption of good habits for the environment.
 
 ## AmI main steps
 
