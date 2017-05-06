@@ -49,13 +49,11 @@ Easier waste classification allows residents to have an active role in reducing 
 
 ### Open issues
 
-* Main problems: **Communication** between bins and **compression** part: how will it work? compression isn’t trivial.
-
-
-* It can be **expensive**:  **Scalability** is an issue. It's not easy to adapt this system to the whole city.   
-* more knowledge about the economical  technology to deal with the compression of garbage and sense of amount and classification of garbage.
-* Maybe getting to know better the **company responsible for managing waste** (AMIAT)  will allow us to provide a specific and customized service addressing actual needs in the garbage collection process.
-* Maybe ask some physical information about the compression topic to a **mechanical researcher** and also about some risks in compressing some special materials like organic waste...
-* To have a demonstration, we will need to have a real bin, the big one, that **cannot fit the LADISPE’s tables’ size**.
+* **Communication** between bins
+* The **scalability** of the system is expensive to cover the whole city   
+* More knowledge about the economical technology to deal with the compression of garbage and sense of amount and classification of garbage
+* To have a demonstration, we will need to have a real bin, the big one, that **cannot fit the LADISPE’s tables’ size**
+* “new” The way to provide **rewards** to the users 
+* “new” NICE bins uses voice recognition and voice notification so it’s not yet **convenient for disabled people** who cannot speak and/or hear
 		
-[https://ami-2017.github.io/urban-waste](https://ami-2017.github.io/urban-waste)
+[https://ami-2017.github.io/NICE-bins](https://ami-2017.github.io/NICE-bins)
