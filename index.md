@@ -36,7 +36,17 @@ Easier waste classification allows residents to have an active role in reducing 
 
 **Intelligent** : /
 
+## Purpose and scope
 
+***NICE bins*** aims to make the neighborhood cleaner and tidier and to educate people on classification of trash by providing a fun platform with a rewarding system.
+The system deals with these following main functions: it shows the situation of all the bins in the neighborhood on the app or website, containing fullness, location and clearness surrounded; it gives real-time warning and/or suggestions for residents to forbid them to abandon the trash outside and suggest them the closest bins if this one is not allowed to use; it educates people to care more about trash classification by the gamified system which provides also rewards, and it uses the cloud database of recycling information in the products’  barcode.
+This system doesn’t involve the residents out of the neighborhood who haven’t yet registered. Besides, it doesn’t  do any trash disposal or optimize the management of the company.
+
+## definitions
+### glossary
+### actors
+**Residents** throwing their trash in this neighborhood and looking for a usable bin (80%)
+**Trash collectors** working in this neighborhood and checking the abandon waste in the area (20%)
 
 ## Group members
 
@@ -46,6 +56,8 @@ Easier waste classification allows residents to have an active role in reducing 
 217946 | Ma | Qiang | ma2214889041@gmail.com | @ma2214889041  | Software Developer & Designer        
 206376 | Medina	| Francesco | pacimedina@gmail.com | @francescomedina	| Hardware and Software Developer 
 217600 | Chen | Yun | 137082773@qq.com | @cystephanie0727 | Software Developer & Web Designer	
+219119 | Zafar | Taha | tahazafar17@gmail.com | @tahazafar | Database Manager
+
 
 ### Open issues
 
