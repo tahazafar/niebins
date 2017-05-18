@@ -19,7 +19,7 @@ Easier waste classification allows residents to have an active role in reducing 
 
 **Reasoning** :  It calculates the percentage of fullness of the trash bin and evaluates the situation of the bins nearby.
 
-**Acting** :  The system closes the bins and compresses the trash inside them according to the levels of fullness.
+**Acting** :  The system instructs the user about the diversified harvest.
 
 **Interacting** : It provides the suggested bins to be opened or closed, the map of the bins in the city and suggestions of the nearest available bins.	
 
