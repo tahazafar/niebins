@@ -17,7 +17,7 @@ Easier waste classification allows residents to have an active role in reducing 
 
 **Sensing** : The system senses the level of trash in the bin as well as the situation of the bins nearby.
 
-**Reasoning** :  It calculates the percentage of fullness of the trash bin and evaluates the situation of the bins nearby.
+**Reasoning** :  The bin calculates the percentage of fullness of the trash bin and evaluates the situation of the bins nearby. The system understand the user's request (speech recognition) and elaborates the correct answer.
 
 **Acting** :  The system educates the user about the diversified harvest through the dialogue of both (user and bin: e.g. User: "Where can I throw this can?" so bin start to blink green led and emit a sound in the correct bin) and through the interactive platform a sort of gamification (e.g: if user want to know how many rubbish has throw in a period of time)
 
