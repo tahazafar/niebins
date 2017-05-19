@@ -19,14 +19,15 @@ Easier waste classification allows residents to have an active role in reducing 
 
 **Reasoning** :  It calculates the percentage of fullness of the trash bin and evaluates the situation of the bins nearby.
 
-**Acting** :  The system instructs the user about the diversified harvest.
+**Acting** :  The system educates the user about the diversified harvest through the dialogue of both (user and bin: e.g. User: "Where can I throw this can?" so bin start to blink green led and emit a sound in the correct bin) and through the interactive platform a sort of gamification (e.g: if user want to know how many rubbish has throw in a period of time)
 
-**Interacting** : It provides the suggested bins to be opened or closed, the map of the bins in the city and suggestions of the nearest available bins.	
+**Interacting** : It provides suggestions of the nearest available bins, reminder about collecting days for a specific bin.	
 
 ## AmI features 
-**Sensitive** : The system senses the level of trash in the bin.
 
-**Responsive** : The system understands when is a good level to compress the waste and also given users’ requests, responds to them with the requested information.
+**Sensitive** : The system senses the level of trash in the bin. 
+
+**Responsive** : The system, given users’ requests, responds to them with the requested information.
 
 **Adaptive** :  If the garbage bins’ positions are changed, they keep their ability to communicate with other bins.
 
@@ -34,7 +35,6 @@ Easier waste classification allows residents to have an active role in reducing 
 
 **Ubiquitous** : The system can be use in wider areas and their situation is available to be consulted by every user.
 
-**Intelligent** : /
 
 ## Purpose and scope
 
