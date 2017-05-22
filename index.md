@@ -169,7 +169,7 @@ Data visualization | the residents and  garbage collectors can see  full% and lo
 ## Selected components
 ### Hardware Components
 **OTS** | **AD-HOC** 
------------- | ------------- 
+:------------ | :------------- 
 1 Raspberry Pi |  sensor for filling level?? 1 ultrasound sensor
 5 movement sensors | photovoltaic panels  for powering the system??
 5 LEDs | roll ball switcher to understand if the bin is open
