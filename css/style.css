@@ -26,16 +26,17 @@ h3,h5 {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 80px;
     letter-spacing: 2px;
 }
 
 h2 {
-  font-size: 30px;
+  font-size: 50px;
   text-transform: uppercase;
 }
 
 h3 {
+	font-size: 30px;
   line-height: 36px;
 }
 
@@ -46,8 +47,8 @@ h5 {
 
 p {
     color: #707070;
-    font-size: 14px;
-    line-height: 24px;
+    font-size: 20px;
+    line-height: 30px;
 }
 
 a {
@@ -81,7 +82,7 @@ th
   padding-bottom: 14rem;
 }
 
-#detail, #video,
+#detail, #features, #video,
 #speakers, 
 #program,
 #sponsors, 
@@ -91,13 +92,13 @@ th
 }
 
 #detail,
-#speakers, #sponsors,
+#speakers, #sponsors,#features
 footer {
   text-align: center;
 }
 
 #overview h3,
-#detail h3, #video h3,
+#detail h3, #features h3, #video h3,
 #register h3,
 #venue h3,
 #contact h3 {
@@ -320,6 +321,19 @@ footer {
   font-size: 48px;
 }
 
+/*---------------------------------------
+    features section              
+-----------------------------------------*/
+#features {
+    background: #222;
+    color: #ffffff;
+}
+
+#features .fa {
+  color: #f2545f;
+  font-size: 48px;
+}
+
 
 
 /*---------------------------------------
@@ -339,7 +353,6 @@ footer {
 }
 
 #speakers h3 {
-    font-size: 18px;
     margin-bottom: 0px;
 }
 
@@ -392,7 +405,7 @@ footer {
 }
 
 #program img {
-  border-radius: 50%;
+  /*border-radius: 50%;*/
 }
 
 .nav-tabs {
@@ -718,6 +731,7 @@ footer {
 
   #overview img,
   #detail .col-md-4,
+  #features .col-md-4,
   #register form {
     padding-top: 32px;
   }
@@ -747,4 +761,3 @@ footer {
   }
 
 }
-
