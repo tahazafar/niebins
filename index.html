@@ -642,37 +642,37 @@ http://www.templatemo.com/tm-486-new-event
 					<td>1</td>
 					<td>Product</td>
 					<td>	Efficiency</td>
-					<td><b><i>NICE bins</i></b> is able to reply in real time and it works in a neighborhood range. The system occupies little space in the bin which it is integrated to</td>
+					<td><b><i>NICE bins</i></b> is able to reply in real time and it works in a neighborhood range. The system occupies little space in the bin which it is integrated to.</td>
 					</tr>
 					<tr>
 					<td>2</td>
 					<td>Product</td>
 					<td>Reliability</td>
-					<td>The crowdsourcing database may lead to some wrong information for classification that cannot be checked instantaneously</td>
+					<td>The crowdsourcing database may lead to some wrong information for classification that cannot be checked instantaneously.</td>
 					</tr>
 					<tr>
 					<td>3</td>
 					<td>Product</td>
 					<td>Portability</td>
-					<td><b><i>NICE bins</i></b> is available on smartphones (Android), tablets and PCs</td>
+					<td><b><i>NICE bins</i></b> is available on smartphones (Android), tablets and PCs.</td>
 					</tr>
 					<tr>
 					<td>4</td>
 					<td>Organizational</td>
 					<td>Implementation</td>
-					<td>Every bin in the neighborhood has to be equipped with <b><i>NICE bins</i></b> system. Every resident has to receive his own code for voice recognition and register to <b><i>NICE bins</i></b> system</td>
+					<td>Every bin in the neighborhood has to be equipped with <b><i>NICE bins</i></b> system. Every resident has to receive his own code for voice recognition and register to <b><i>NICE bins.</i></b> system</td>
 					</tr>
 					<tr>
 					<td>5</td>
 					<td>External</td>
 					<td>Interoperability</td>
-					<td>Using <b><i>NICE bins</i></b> system trash collectors and registered users notify abandoned waste not reachable by the sensor of the bins to the company which takes care of its collection. <b><i>NICE bins</i></b> app uses the map of the bins’ location provided by waste management company and the crowdsourcing database for classification of trash</td>
+					<td>Using <b><i>NICE bins</i></b> system trash collectors and registered users notify abandoned waste to the company which takes care of its collection. <b><i>NICE bins</i></b> app uses the map of the bins’ location provided by waste management company and the crowdsourcing database for classification of trash</td>
 					</tr>
 					<tr>
 					<td>6</td>
 					<td>External</td>
 					<td>Legislative</td>
-					<td>In order to guarantee users’ privacy, <b><i>NICE bins</i></b> provides them with a code for voice recognition related only to their residence and their e-mails for registration</td>
+					<td>In order to guarantee users’ privacy, <b><i>NICE bins</i></b> provides them with a code for speech recognition related only to their residence and their e-mails for registration.</td>
 					</tr>
 					
 					</table>
@@ -733,21 +733,21 @@ http://www.templatemo.com/tm-486-new-event
 				<div class="tab-content" style="height:300px;overflow-x:hidden;">
 
 					<div role="tabpanel" class="tab-pane active" id="CN">
-						<p><b>“central” - server on a remote computer:</b>  it communicates directly with the master bin (generic one) through the bin interface, it manages app interface and it retrieves information from the crowdsourcing database and the master bin. </p>
-						<p><b>“distributed” - master bin (generic one):</b>it communicates with the central server and with the slaves bins (paper, can & glass, organic and plastic). It manages the sensors and actuators in the master bin and in the slave bins. 4 slave bins: each slave bin performs the queries made by the master bin on its own sensors and actuators.</p>
+						<p><b>“central” - server on a remote computer:</b> it communicates directly with the master bin (generic one) through the bin interface, it manages app interface and it retrieves information from the crowdsourcing database and the master bin. </p>
+						<p><b>“distributed” - master bin (generic one):</b> it communicates with the central server and with the slaves bins (paper, can & glass, organic and plastic). It manages the sensors and actuators in the master bin and in the slave bins. 4 slave bins: each slave bin performs the queries made by the master bin on its own sensors and actuators.</p>
 						<p><b> “mobile” - user’s smartphone: </b> it communicates with the central server to retrieve information about items’ classification and to run the gamification system.</p>
 					</div>
 
 					<div role="tabpanel" class="tab-pane" id="DEV">
-						<p>1 raspberry pi placed in the master bin to compute the informations received by the sensors and to give instructions to the actuators</p>
+						<p>1 raspberry pi placed in the master bin to compute the information received by the sensors and to give instructions to the actuators</p>
 						<p>1 arduino in the master bin and in each slave bin to control the sensors and actuators</p>
 						<p>1 proximity sensor in the master bin and slave bins to sense user’s proximity and abandoned trash</p>
 						<p>1 ultrasound sensor in the master bin and slave bins to sense filling level</p>
-						<p>1 voice sensor in the master bin to sense user’s speech</p>
+						<p>1 microphone in the master bin to sense user’s speech</p>
 						<p>1 speaker in the master bin to give voice suggestions  to the users </p>
 						<p>1 beeper in the slave bins to point users the correct bin to use</p>
 						<p>1 led light in the master bin and slave bins to show filling levels of the bins according to color</p>
-						<p>1 switcher in the master bin and slave bins  to understand if they are open or closed</p>
+						<p>1 switch in the master bin and slave bins to understand if they are open or closed</p>
 					</div>
 
 					<div role="tabpanel" class="tab-pane" id="UID">
@@ -780,7 +780,7 @@ http://www.templatemo.com/tm-486-new-event
 				<div class="tab-content" style="height:300px;overflow-x:hidden;">
 
 					<div role="tabpanel" class="tab-pane active" id="F1">
-						<p>If the bin is full ,give suggestion to the nearest unfilled bin.</p>
+						<p>If the bin is full, give suggestion to the nearest unfilled bin.</p>
 						<table class="table table-hover table-bordered">
 						<thead>
 						  <th>Software</th>
@@ -789,17 +789,17 @@ http://www.templatemo.com/tm-486-new-event
 						</thead>   
 						<tr>
 						  <td>Database</td>
-						  <td>we give every bin an ID,and use database for recording which bin is more near to this bin;Another database for recording full% of every bin and location of every bin.</td>
+						  <td>Three databases store bin id along with the information of closest bins to it, the filling level of the bins and their location respectively.</td>
 						  <td>central</td>
 						</tr> 
 						<tr>
 						  <td>Text To Speech</td>
-						  <td>changing location text to voice</td>
+						  <td>Changing location text to voice</td>
 						  <td>central</td>
 						</tr> 
 						<tr>
 						  <td>LED controller</td>
-						  <td>Show full% of every bin with different colors	</td>
+						  <td>Show filling level of every bin with different colors	</td>
 						  <td>bin</td>
 						</tr> 
 					
@@ -817,18 +817,18 @@ http://www.templatemo.com/tm-486-new-event
 						</thead>   
 						<tr>
 						  <td>Database</td>
-						  <td>Use database for recording every user ID and their voice code,game points location and other related information.</td>
+						  <td>A database is used for storing users' ID, voice code and registration information. Another one stores points received by the users.</td>
 						  <td>central</td>
 						</tr> 
 						<tr>
-						  <td>Voice recognition	</td>
-						  <td>change the voice to text for user login and get user’s information	</td>
+						  <td>Speech recognition	</td>
+						  <td>Change voice to text for user's login and to retrieve user’s information	</td>
 						  <td>bin</td>
 						</tr> 
 						<tr>
 						  <td>Instapush</td>
-						  <td>send game points and waste collection dates to user and is connected to the central database		</td>
-						  <td>Smartphone</td>
+						  <td>Send game points and waste collection dates to user and it is connected to the central database		</td>
+						  <td>smartphone</td>
 						</tr> 
 					
 						
@@ -836,7 +836,7 @@ http://www.templatemo.com/tm-486-new-event
 					</div>
 
 					<div role="tabpanel" class="tab-pane" id="F3">
-						<p>On Google Map it shows the full% and location of every bin.</p>
+						<p>On Google Map it shows the filling level and location of every bin.</p>
 						<table class="table table-hover table-bordered">
 						<thead>
 						  <th>Software</th>
@@ -845,7 +845,7 @@ http://www.templatemo.com/tm-486-new-event
 						</thead>   
 						<tr>
 						  <td>Data visualization	</td>
-						  <td>The residents and garbage collectors can see full% and location of every bin on map,and garbage collectors can adjust the number and location of bins according to statistics.</td>
+						  <td>The residents and garbage collectors can see filling level and location of every bin on map while garbage collectors can adjust the number and location of bins according to statistics.</td>
 						  <td>central</td>
 						</tr> 
 					
@@ -869,10 +869,10 @@ http://www.templatemo.com/tm-486-new-event
 				<div id="collapseArchThree" class="panel-collapse collapse">
 				<div class="panel-body">
 				<p><b>Central server:</b> world-accessible public IP address</p>
-				<p>Database : connected to center server by <b>gateway</b></p>
+				<p>Database: connected to central server by <b>gateway</b></p>
 				<p>Website connected to center server by local gateway</p>
-				<p>Master bin of each group of bins: using <b>SIM card</b> to connect to google APIs by 3G network.</p>
-				<p>Slave bins connected with each other and master bins by <b>bluetooth</b>.</p>
+				<p>Master bin of each group of bins: using <b>wifi</b> to connect to google APIs</p>
+				<p>Slave bins connected with each other and master bins by <b>wifi</b>.</p>
 				<p>Phones connected to <b>local wi-fi</b> or to 3G network . Connects to central server, only.</p>
 				<!--Selected components-->
 				<h3>Selected components</h3>
@@ -885,31 +885,35 @@ http://www.templatemo.com/tm-486-new-event
 					</thead>   
 					<tr>
 					  <td>1 Raspberry Pi</td>
-					  <td>sensor for filling level?? 1 ultrasound sensor</td>
+					  <td>1 ultrasonic sensor</td>
 					</tr> 
 					<tr>
 					  <td>5 movement sensors</td>
-					  <td>	photovoltaic panels for powering the system??</td>
+					  <td>	photovoltaic panels for powering the system</td>
 					</tr> 
 					<tr>
 					  <td>5 LEDs</td>
-					  <td>	roll ball switcher to understand if the bin is open</td>
 					</tr> 
 					<tr>
-					  <td>5 arduino boards / Breadboards</td>
+					  <td>5 arduino boards</td>
 					  <td></td>
 					</tr> <tr>
 					  <td>5 USB Microphones for Raspberry Pi</td>
 					  <td></td>
 					</tr> 
 					<tr>
-					  <td>10 - 20 proximity sensors for Raspberry Pi (it seems quite a lot, maybe for demo a bit less)</td>
+					  <td>5 proximity sensors for Raspberry Pi</td>
 					  <td></td>
 					</tr> 
 					<tr>
-					  <td>1 USB power bank ??</td>
+					  <td>5 USB power bank</td>
 					  <td></td>
 					</tr> 
+					<tr>
+					  <td>5 Breadboard</td>
+					  <td></td>
+					</tr> 
+						
 					</table>
 				</div>
 				</div>
@@ -924,15 +928,12 @@ http://www.templatemo.com/tm-486-new-event
 				</div>
 				<div id="collapseArchFour" class="panel-collapse collapse">
 				<div class="panel-body">
-				<p>For programing we make use of Python,and java(mostly for android application):</p>
-				<p>1.For database we use SQLite to connect Python. </p>
-				<p>2.For data visualization we use Google Map JavaScript API connect to database</p>
-				<p>3.For text to speech we use pyttsx API to change text to voice.</p>
-				<p>4.For voice recognition we make use of google assistant library for python.</p>
-				<p>5.furthermore we make use of gsm technology to connect smartbins to main server.</p>
-				<p>6.For LED control we make use of PWM API.</p>
-				<p>7.To check more about modules you can visit the respective websites.</p>
-				<p>8.Instapush version 1.0.7 </p>
+				<p>For programing we make use of Python and java (mostly for android application):</p>
+				<p>1. For database we use SQLite3 to connect Python. </p>
+				<p>2. For data visualization we use Google Map JavaScript API connected to database</p>
+				<p>3. For speech recognition we use Alexa API to change text to voice.</p>
+				<p>4. We make use of SSH to connect NICE bins to main server.</p>
+				<p>5. Instapush version 1.0.7 </p>
 				</div>
 				</div>
 
