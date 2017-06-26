@@ -20,16 +20,20 @@ while True:
         myData = arduinoSerialData.readline()
         myData = int(myData)
         if myData <0:
-            conn = sqlite3.connect("posts.db")
-            cursor = conn.cursor()
-            sql = 'select \'point\ from users where word=\'apple\''
-            cursor.execute(sql)
-            point = cursor.fetchall()
-            point = int(point)+1
-            sql = 'UPDATE users SET \'point\' = %s WHERE word =\'apple\'' %  str(point)
-            cursor.execute(sql)
-            conn.commit()
-            cursor.close()
-            conn.close()
+                time.sleep(10)
+                if myData ==0:
+                        conn = sqlite3.connect("posts.db")
+                        cursor = conn.cursor()
+                        sql = 'select \'point\ from users where word=\'apple\''
+                        cursor.execute(sql)
+                        point = cursor.fetchall()
+                        point = int(point)+1
+                        sql = 'UPDATE users SET \'point\' = %s WHERE word =\'apple\'' %  str(point)
+                        cursor.execute(sql)
+                        conn.commit()
+                        cursor.close()
+                        conn.close()
+                else:
+                        print('didn`t close door')
 
 
