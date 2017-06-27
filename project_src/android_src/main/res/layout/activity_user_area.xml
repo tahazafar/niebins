@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background = "@drawable/background"
+    tools:context=".UserAreaActivity" >
+
+    <TextView
+        android:id="@+id/welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Nice Bin!"
+        android:textSize="40sp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3sp"/>
+    <TextView
+        android:id="@+id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Username:"
+        android:textSize="25sp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3sp"/>
+    <TextView
+        android:id="@+id/points"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Points:"
+        android:textSize="25sp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3sp"/>
+    <TextView
+        android:id="@+id/voicecode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Voice Code:"
+        android:textSize="25sp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3sp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3sp"/>
+    <EditText
+        android:id="@+id/commentinput"
+        android:hint="Comment Here!"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:gravity="center">
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" submit comment "
+        android:background="@drawable/submit_btn"
+        android:textSize="17dp" />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/commentheader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="User Comments:"
+        android:textSize="50px"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#000000" />
+</LinearLayout>

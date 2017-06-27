@@ -1,0 +1,10 @@
+<markers>
+<marker address="via ormea1" lat="45.051870809592856" lng="7.676247435569721" name="bin1" type="emtey" />
+<marker address="via ormea2" lat="45.05132507856104" lng="7.676043587684589" name="bin2" type="not_full" />
+<marker address="via ormea3" lat="45.051105268757695" lng="7.677191573142963" name="bin3" type="full" />
+<marker address="via ormea4" lat="45.05565288572113" lng="7.6812470731734805" name="bin4" type="emtey" />
+<marker address="via ormea5" lat="45.057873507257796" lng="7.6805979785918765" name="bin5" type="emtey" />
+<marker address="via ormea6" lat="45.054811603844705" lng="7.675984579086261" name="bin6" type="full" />
+<marker address="via ormea7" lat="45.051567626329344" lng="7.674697118759113" name="bin7" type="emtey" />
+<marker address="via ormea8" lat="45.047429014081494" lng="7.673152166366535" name="bin8" type="full" />
+</markers>
