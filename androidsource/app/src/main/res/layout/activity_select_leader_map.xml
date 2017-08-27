@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.nicebin.SelectLeaderMapActivity">
+
+    <Button
+        android:id="@+id/leaderboard"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Leader Board"
+        android:layout_marginBottom="82dp"
+        android:layout_above="@+id/map"
+        android:layout_alignLeft="@+id/map"
+        android:layout_alignStart="@+id/map" />
+
+    <Button
+        android:id="@+id/map"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Find bin on map"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/visit"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="82dp"
+        android:text="Visit Website" />
+</RelativeLayout>
