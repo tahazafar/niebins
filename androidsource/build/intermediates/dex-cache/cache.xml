@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/586c46cc2554ff2f035f80033e80a8ced92d8259/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/Users/apple/Desktop/NiceBin/app/build/intermediates/pre-dexed/debug/classes_638ac2974a943c4b50ff6309c80e21454711444c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/f183e2f8237bdd8911d9664a350e5357aea3a6dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b70c5ad05857b8b3b2458777e1b489a96d82f05">
+        <dex dex="/Users/apple/Desktop/NiceBin/app/build/intermediates/pre-dexed/debug/classes_f009e83cff748bad552e2cc2f633d39fec7ae3d8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/NiceBin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="51a5bd4e4089f4714913fcb295ea76a805a96a90">
+        <dex dex="/Users/apple/Desktop/NiceBin/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_efd13359b2086c8125c1058a8e48795b2f478f3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/b8874ddf1afdfefa1a1a43b775d65923eca4cf38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/Users/apple/Desktop/NiceBin/app/build/intermediates/pre-dexed/debug/classes_c38f8bae141bdf152dd4d832dfa6747d2891961f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/d1705574114b4639b3aa32910b4d4e49af1616ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/Users/apple/Desktop/NiceBin/app/build/intermediates/pre-dexed/debug/classes_96d468babc470d9e49b6cb4cb325f2258d2a7648.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/NiceBin/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/apple/Desktop/NiceBin/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_330a05c007c7395e0dbf7afab880d328b0bad80d/classes.dex" />
+    </item>
+
+</items>
